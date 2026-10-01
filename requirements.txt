@@ -1,0 +1,8 @@
+SpeechRecognition
+pyttsx3
+wikipedia
+requests
+ecapture
+wolframalpha
+python-dotenv
+PyAudio
